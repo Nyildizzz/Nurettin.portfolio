@@ -8,14 +8,14 @@ const Projects = [
         description: 'I built a mini weather app utilizing the OpenWeatherMap API to provide real-time weather data for specified locations.',
         image: 'https://camo.githubusercontent.com/a5d833fc6e5b97f3fbea8aa8fea60509e74c6e386cbad10d016218c8df70bcf7/68747470733a2f2f69322e70617374652e706963732f64346563326462376635633436613933623062613935633631373130353262362e706e67',
         tech: ['React.js', 'OpenWeathermap Apı', 'CSS',"Material UI"],
-        link:""
+        link:"https://github.com/Nyildizzz/weather-app"
     },
     {
         title: 'Tesla Clone',
         description: 'My latest project involved creating a Tesla-inspired clone, emulating the iconic design and cutting-edge technology of the original Tesla vehicles.',
         image: 'https://camo.githubusercontent.com/5719f1c4c97e28f29637fec53a21d920353bd39a3539df038d204a5ade29ba99/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f73686f706966792d637573746f6d6572696f2f746f6f6c732f696d6167655f6174746163686d656e742f696d6167652f637573746f6d5f726573697a65645f33616561336664392d343936632d346363312d623733342d3264393137373663393539342e706e67',
         tech: ['React.js','CSS'],
-        link:""
+        link:"https://github.com/Nyildizzz/Tesla-Clone"
     },
     {
         title: 'Next Blog',
@@ -29,7 +29,7 @@ const Projects = [
         description: 'I have created a cafeteria automation system. It simplifies cafeteria processes like ordering and payment, offering a seamless experience. Customers can place orders and helps staff manage inventory effectively. This system improves efficiency and convenience for both customers and cafeteria management.',
         image: foto,
         tech: ['JavaSwing', 'MySql', 'Java'],
-        link:""
+        link:"https://github.com/Nyildizzz/Canteen-Automation---E-POS-"
     },
 ];
 
